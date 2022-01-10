@@ -1,1 +1,2 @@
-# orsat-3
+An honestly badly designed website, but a good pointer and vital in terms of including NPM packages and seeing how everything works with react...
+started componentising and actually using react functionality.
